@@ -176,13 +176,13 @@ color: rgba(255, 255, 255, 0.6);}
 background: #E5E5E5;}
 
 .button{
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 26px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
     
-        letter-spacing: 0.03em;
+    letter-spacing: 0.03em;
     
-        color: #212121;
+    color: #212121;
 }
 .names{
     font-weight: 700;
@@ -192,12 +192,12 @@ background: #E5E5E5;}
     letter-spacing: 0.06em;
 
     color: #212121;}
-    .pib{
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 30px;
+.pib{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
     
-        letter-spacing: 0.03em;
+    letter-spacing: 0.03em;
     
-        color: #757575;}
+    color: #757575;}
 
