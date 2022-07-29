@@ -114,11 +114,13 @@ body {
 .about-us-text {
     color: var(--secondary-text-color);
 }
-.Portfolio {
+.Portfolio{
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
+list-style-type: none;
+margin-bottom: 0.50em;
 
 color: #212121;
 }
@@ -128,6 +130,7 @@ font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
 color: #757575;
+text-decoration: none;
 }
 .name{
 font-weight: 700;
