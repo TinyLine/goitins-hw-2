@@ -117,90 +117,73 @@ body {
 .Portfolio{
 font-weight: 500;
 font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
+line-height: 10px;
 list-style-type: none;
 margin-bottom: 0.50em;
 
-color: #212121;
+color:var(--secondary-text-color);
 }
 .Contacts {
 font-weight: 500;
 font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-color: #757575;
+line-height: 1.14px;
+color: var(--secondary-text-color);
 text-decoration: none;
 }
 .name{
 font-weight: 700;
 font-size: 36px;
-line-height: 42px;
+line-height: 1.16px;
 text-align: center;
 letter-spacing: 0.03em;
 
-color: #212121;}
+color:var(--primary-text-color);}
 .person{
 font-weight: 500;
 font-size: 16px;
-line-height: 19px;
-letter-spacing: 0.03em;
+line-height: 1.18px;
 
-color: #212121;}
+color: var(--primary-text-color);}
 
 .tops{
-background: #FFFFFF;}
+background: var(--primary-background-color);}
 
 .section-bg{
-background: #F5F4FA;}
+background: var(--primary-background-color);}
 
 .footer {
-    background: #2F303A;
+    background: var(--hero-footer-background);
 }
 .adress{
 font-weight: 400;
 font-size: 14px;
-line-height: 24px;
-
-letter-spacing: 0.03em;
-
-color: #FFFFFF;}
+line-height: 1.46px;
+color: var(--primary-background-color);}
 
 .email{
 font-weight: 400;
 font-size: 14px;
-line-height: 24px;
-
-letter-spacing: 0.03em;
-
-color: rgba(255, 255, 255, 0.6);}
+line-height: 1.46px;
+color: var(--nav-footer-colot);}
 
 .bodys{
-background: #E5E5E5;}
+background: var(--primary-background-color);}
 
 .button{
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
-    
-    letter-spacing: 0.03em;
-    
-    color: #212121;
+    line-height: 1.6px;
+    color: var(--hero-footer-background);
 }
 .names{
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
-
+    line-height: 2px;
     letter-spacing: 0.06em;
-
-    color: #212121;}
+    color: var(--primary-text-color)}
 .pib{
     font-weight: 400;
     font-size: 16px;
-    line-height: 30px;
-    
-    letter-spacing: 0.03em;
-    
-    color: #757575;}
+    line-height: 1.8px;
+    color: var(--secondary-text-color);}
 
