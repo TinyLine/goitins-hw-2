@@ -16,18 +16,17 @@ body {
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
-
-/* Утиліти класів */
-
 .link {
     text-decoration: none;
-    color: var(--primary-text-color);
+}
+.link:hover,
+.link:focus {
+    color: var(--accent-color);
 }
 
 .list {
     list-style: none;
 }
-
 .visually-hidden {
     position: absolute !important;
     clip: rect(1px 1px 1px 1px);
@@ -188,3 +187,8 @@ background: var(--primary-background-color);}
     line-height: 1.8px;
     color: var(--secondary-text-color);}
 
+.btn:hover,
+.btn:focus {
+    color: #ffffff;
+    background-color: var(--accent-color);
+}
